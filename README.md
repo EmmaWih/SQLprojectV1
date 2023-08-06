@@ -1,6 +1,6 @@
 # SQLprojectV1
 
-![Project Banner]([project_banner_image_url](https://your-image-url.com/project_banner.jpg))
+
 
 ## Overview
 
@@ -14,20 +14,10 @@ Welcome to my COVID-19 Data Analysis Project! In this project, I've utilized SQL
 
 ## Key Visualizations
 
-### World Map of Infections
+ 1. World Map of Infections
+ 2. Top Affected Continents
+ 3. Death Rate Comparison
 
-![World Map of Infections]([world_map_image_url](https://your-image-url.com/world_map_image.jpg))
-> Visual representation of infection rates in different continents.
-
-### Top Affected Continents
-
-![Top Affected Countries]([top_countries_image_url](https://your-image-url.com/top_countries_image.jpg))
-> Bar chart depicting the top countries with the highest infection rates.
-
-### Death Rate Comparison
-
-![Death Rate Comparison]([death_rate_image_url](https://your-image-url.com/death_rate_image.jpg))
-> Comparison of death rates in selected continents.
 
 ## How to Use
 
