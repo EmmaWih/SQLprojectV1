@@ -1,10 +1,10 @@
 # SQLprojectV1
-
+![](https://github.com/EmmaWih/SQLprojectV1/blob/main/covid%20image.jpg)
 
 
 ## Overview
 
-Welcome to my COVID-19 Data Analysis Project! In this project, I've utilized SQL to analyze COVID-19 data, focusing on infected countries and death rates in different regions. The goal was to gain insights into the impact of the pandemic on various countries and identify patterns in the spread of the virus.
+Welcome to my COVID-19 Data Analysis Project! In this project, I've utilized SQL to analyze COVID-19 data, focusing on infected continent and death rates in different regions. The goal was to gain insights into the impact of the pandemic on various countries and identify patterns in the spread of the virus.
 
 ## Project Highlights
 
@@ -14,9 +14,24 @@ Welcome to my COVID-19 Data Analysis Project! In this project, I've utilized SQL
 
 ## Key Visualizations
 
- 1. World Map of Infections
- 2. Top Affected Continents
- 3. Death Rate Comparison
+###World Map of Infections
+
+![](https://github.com/EmmaWih/SQLprojectV1/blob/main/Map%20of%20Infections.png)
+Visual representation of infection rates in different continents.
+
+
+###Top Affected Continents
+
+![](https://github.com/EmmaWih/SQLprojectV1/blob/main/Top%20Affected%20Continents.png)
+
+Bar chart depicting the top continents with the highest infection rates.
+
+
+###Death Rate Comparison
+
+![](https://github.com/EmmaWih/SQLprojectV1/blob/main/DeathRate.png)
+
+ Comparison of death rates in selected continent.
 
 
 ## How to Use
