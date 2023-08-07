@@ -16,20 +16,20 @@ Welcome to my COVID-19 Data Analysis Project! In this project, I've utilized SQL
 
 ## Key Visualizations
 
-###World Map of Infections
+### World Map of Infections
 
 ![](https://github.com/EmmaWih/SQLprojectV1/blob/main/Map%20of%20Infections.png)
 Visual representation of infection rates in different continents.
 
 
-###Top Affected Continents
+### Top Affected Continents
 
 ![](https://github.com/EmmaWih/SQLprojectV1/blob/main/Top%20Affected%20Continents.png)
 
 Bar chart depicting the top continents with the highest infection rates.
 
 
-###Death Rate Comparison
+### Death Rate Comparison
 
 ![](https://github.com/EmmaWih/SQLprojectV1/blob/main/DeathRate.png)
 
@@ -37,7 +37,7 @@ Bar chart depicting the top continents with the highest infection rates.
 
 
 
- ## Click [Here](https://public.tableau.com/app/profile/emmanuel.wih/viz/CovidDashboardProject_16912719359670/Dashboard1?publish=yes) to view full Dashboard in Tableu.
+ ### Click [Here](https://public.tableau.com/app/profile/emmanuel.wih/viz/CovidDashboardProject_16912719359670/Dashboard1?publish=yes) to view full Dashboard in Tableu.
 
 
 ## How to Use
