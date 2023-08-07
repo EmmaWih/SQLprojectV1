@@ -1,8 +1,10 @@
 # SQLprojectV1
-![](https://github.com/EmmaWih/SQLprojectV1/blob/main/covid%20image.jpg)
+
 
 
 ## Overview
+![](https://github.com/EmmaWih/SQLprojectV1/blob/main/covid%20image.jpg)
+
 
 Welcome to my COVID-19 Data Analysis Project! In this project, I've utilized SQL to analyze COVID-19 data, focusing on infected continent and death rates in different regions. The goal was to gain insights into the impact of the pandemic on various countries and identify patterns in the spread of the virus.
 
