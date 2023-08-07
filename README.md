@@ -35,7 +35,9 @@ Bar chart depicting the top continents with the highest infection rates.
 
  Comparison of death rates in selected continent.
 
- Click [Here](https://public.tableau.com/app/profile/emmanuel.wih/viz/CovidDashboardProject_16912719359670/Dashboard1?publish=yes) to view full Dashboard in Tableu
+
+
+ ## Click [Here](https://public.tableau.com/app/profile/emmanuel.wih/viz/CovidDashboardProject_16912719359670/Dashboard1?publish=yes) to view full Dashboard in Tableu.
 
 
 ## How to Use
